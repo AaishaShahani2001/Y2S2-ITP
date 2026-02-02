@@ -85,7 +85,7 @@ PetPulse/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/petpulse.git  
+git clone https://github.com/AaishaShahani2001/Y2S2-ITP.git 
 cd petpulse  
 
 ---
@@ -146,7 +146,7 @@ This project was built for a university semester module to demonstrate:
 
 ## 📎 Links
 
-GitHub: https://github.com/your-username/petpulse  
+GitHub: https://github.com/AaishaShahani2001/Y2S2-ITP.git 
 Live Demo: https://itp-frontend.onrender.com/
 
 ---
